@@ -1,0 +1,1 @@
+"""Platform + external IO adapters. All side effects live here."""
